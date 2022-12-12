@@ -8,3 +8,6 @@
 .errorInput {
     border: 1px solid red;
 }
+label {
+    display: block;
+}
